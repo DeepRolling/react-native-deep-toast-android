@@ -1,7 +1,14 @@
 import { NativeModules } from 'react-native';
 
 type DeepToastAndroidType = {
-  multiply(a: number, b: number): Promise<number>;
+  show(params: {
+    message: string;
+    duration: string;
+    position: string;
+    addPixelsY?: number;
+  }): void;
+  hide(): void;
+  initialize(): void;
 };
 
 const { DeepToastAndroid } = NativeModules;

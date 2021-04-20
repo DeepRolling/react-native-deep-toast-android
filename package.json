@@ -1,6 +1,6 @@
 {
   "name": "react-native-deep-toast-android",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cancelable android toast in react-native platform",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -43,9 +43,6 @@
     "url": "http://www.deepcode.site/issues"
   },
   "homepage": "http://www.deepcode.site#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
