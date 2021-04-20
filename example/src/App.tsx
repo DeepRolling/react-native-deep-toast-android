@@ -7,7 +7,6 @@ export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
 
   React.useEffect(() => {
-    DeepToastAndroid.multiply(3, 7).then(setResult);
   }, []);
 
   return (
