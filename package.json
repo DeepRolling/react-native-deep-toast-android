@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "http://www.deepcode.site",
-  "author": "deepcode <bai.xuan.yu@finsiot.com> (http://www.deepcode.site)",
+  "repository": "https://github.com/DeepRolling/react-native-deep-toast-android",
+  "author": "deepcode",
   "license": "MIT",
   "bugs": {
-    "url": "http://www.deepcode.site/issues"
+    "url": "https://github.com/DeepRolling/react-native-deep-toast-android/issues"
   },
-  "homepage": "http://www.deepcode.site#readme",
+  "homepage": "https://github.com/DeepRolling/react-native-deep-toast-android#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
